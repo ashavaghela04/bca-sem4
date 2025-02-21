@@ -1,0 +1,10 @@
+public class num_sum
+{
+	public static void main(String[] args)
+	{
+		int decimalLiterals=10;
+		int binaryLiterals=0b110010;
+		int octalalLiterals=0144;
+		int hexLiterals=0x64;
+	}
+}

@@ -1,0 +1,12 @@
+class st_method
+{
+	static void check()
+	{
+		System.out.print/n("static");
+	}
+	public static void main(String [] args)
+	{
+		check();
+		System.out.print/n("My first static java program");
+	}
+}
